@@ -1,0 +1,34 @@
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\bin\Debug\Class diary.exe.config
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\bin\Debug\Class diary.exe
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\bin\Debug\Class diary.pdb
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\bin\Debug\Guna.UI2.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\obj\Debug\Class_diary.Form1.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\obj\Debug\Class_diary.Properties.Resources.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\obj\Debug\Class_diary.UserControl1.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\obj\Debug\Class diary.csproj.GenerateResource.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\obj\Debug\Class diary.csproj.CoreCompileInputs.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\obj\Debug\Class diary.csproj.CopyComplete
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\obj\Debug\Class diary.exe
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\obj\Debug\Class diary.pdb
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\obj\Debug\Class diary.csprojAssemblyReference.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\bin\Debug\Bunifu.Core.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\bin\Debug\Newtonsoft.Json.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary\Class diary\bin\Debug\Newtonsoft.Json.xml
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\obj\Debug\Class diary.csprojAssemblyReference.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\obj\Debug\Class_diary.Form1.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\obj\Debug\Class_diary.Properties.Resources.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\obj\Debug\Class_diary.UserControl1.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\obj\Debug\Class diary.csproj.GenerateResource.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\obj\Debug\Class diary.csproj.CoreCompileInputs.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\obj\Debug\Class diary.exe
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\obj\Debug\Class diary.pdb
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\bin\Debug\Class diary.exe.config
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\bin\Debug\Class diary.exe
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\bin\Debug\Class diary.pdb
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\bin\Debug\Bunifu.Core.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\bin\Debug\Guna.UI2.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\bin\Debug\Newtonsoft.Json.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\bin\Debug\Newtonsoft.Json.xml
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\4\Class diary - Copy\Class diary\obj\Debug\Class diary.csproj.CopyComplete
